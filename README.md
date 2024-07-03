@@ -12,6 +12,7 @@ i wanna go out but no one is outside anymore so now i have to go in the ethernet
 *   🧠  I'm learning python, sql, docker, wireshark, malware, soc.
 *   🤝  I'm open to collaborating on all my future projects
 *   ⚡  i been secretly learning gaining weight , who cares get fat
+
 <a href="https://www.github.com/travaveli" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/travaveli?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a><a href="https://www.x.com/TravisEsco" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/TravisEsco?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000"
